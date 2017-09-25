@@ -1,1 +1,3 @@
-/mnt/x/daverigie/Google Drive/C++/readListmodeCPP/build/CMakeFiles/dumptags.dir
+D:/Users/rigied01/Google Drive/C++/readListmodeCPP/build/CMakeFiles/dumptags.dir
+D:/Users/rigied01/Google Drive/C++/readListmodeCPP/build/CMakeFiles/ALL_BUILD.dir
+D:/Users/rigied01/Google Drive/C++/readListmodeCPP/build/CMakeFiles/ZERO_CHECK.dir

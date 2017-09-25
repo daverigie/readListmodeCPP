@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/dumptags.dir/src/main.cpp.o  -o ../bin/dumptags -rdynamic 
